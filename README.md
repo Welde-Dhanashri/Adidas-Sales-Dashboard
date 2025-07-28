@@ -1,6 +1,6 @@
 ## 📊 My Streamlit Dashboard
 
-🔗 **Check out my live dashboard here:** [Streamlit Dashboard](https://your-streamlit-app-link.streamlit.app)
+🔗 **Check out my live dashboard here:** [Streamlit Dashboard](https://adidas-sales-dashboard-jkk8x56g4xtnyhj8wmytuk.streamlit.app/)
 
 ---
 
