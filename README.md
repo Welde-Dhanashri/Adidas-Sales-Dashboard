@@ -5,9 +5,8 @@ This project lets users explore sales trends, retailer performance, state-wise u
 
 ---
 
-## 🚀 Live App
-https://adidas-sales-dashboard-jkk8x56g4xtnyhj8wmytuk.streamlit.app/
-
+## 🚀 My Streamlit App
+<small>Check out my deployed Streamlit web app here:</small>[**Click to view the dashboard**](https://adidas-sales-dashboard-jkk8x56g4xtnyhj8wmytuk.streamlit.app/)
 ---
 
 ## 📊 Features
