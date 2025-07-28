@@ -29,7 +29,7 @@ _(Replace this with your actual Streamlit sharing link)_
 Visualizes which retailers generated the most sales.And Shows how sales performance evolved over different months.
 
 
-![Image](Total Sales By Retailer ANd Monthly Trends.png)
+![Image](https://github.com/Welde-Dhanashri/Adidas-Sales-Dashboard/blob/main/Total%20Sales%20By%20Retailer%20ANd%20Monthly%20Trends.png?raw=true)
 
 ---
 
