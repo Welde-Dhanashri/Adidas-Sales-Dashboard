@@ -29,7 +29,7 @@ _(Replace this with your actual Streamlit sharing link)_
 Visualizes which retailers generated the most sales.And Shows how sales performance evolved over different months.
 
 
-![Retailer Sales](Screenshot%202025-07-27%20143658.png)
+![Image](Total Sales By Retailer ANd Monthly Trends.png)
 
 ---
 
