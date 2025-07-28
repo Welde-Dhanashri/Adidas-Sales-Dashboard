@@ -33,14 +33,14 @@ Visualizes which retailers generated the most sales.And Shows how sales performa
 
 ---
 
-### 🔹 3. Sales and Units Sold by State
+### 🔹 2. Sales and Units Sold by State
 Bar + line chart showing both sales and unit comparison state-wise.
 
-![State Units Sold](Screenshot%202025-07-27%20143757.png)
+![State Units Sold](https://github.com/Welde-Dhanashri/Adidas-Sales-Dashboard/blob/main/Total%20Sales%20and%20Units%20Sold.png?raw=true)
 
 ---
 
-### 🔹 4. Region and City-wise Treemap
+### 🔹 3. Region and City-wise Treemap
 A treemap that breaks down total sales by region and city.
 
 ![Treemap](Screenshot%202025-07-27%20143834.png)
