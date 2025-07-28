@@ -6,9 +6,7 @@ This project lets users explore sales trends, retailer performance, state-wise u
 ---
 
 ## 🚀 Live App
-
-👉 [Click here to view the live Streamlit dashboard](https://your-streamlit-link-here)  
-_(Replace this with your actual Streamlit sharing link)_
+https://adidas-sales-dashboard-jkk8x56g4xtnyhj8wmytuk.streamlit.app/
 
 ---
 
