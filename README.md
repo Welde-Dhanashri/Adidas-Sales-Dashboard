@@ -88,8 +88,11 @@ To build an interactive sales dashboard for **Adidas** that provides insights in
 
 ## Dashboard Screenshots
 📌 Total Sales and Monthly Trends
-📌 Sales by Region and City
+![Image](https://github.com/Welde-Dhanashri/Adidas-Sales-Dashboard/blob/main/Total%20Sales%20By%20Retailer%20ANd%20Monthly%20Trends.png?raw=true)
 📌 Total Sales and Units Sold by State
+![Image](https://github.com/Welde-Dhanashri/Adidas-Sales-Dashboard/blob/main/Total%20Sales%20and%20Units%20Sold.png?raw=true)
+📌 Sales by Region and City
+![Image](https://github.com/Welde-Dhanashri/Adidas-Sales-Dashboard/blob/main/Total%20Sales%20By%20Region%20And%20State.png?raw=true)
 
 ---
 
