@@ -43,13 +43,4 @@ Bar + line chart showing both sales and unit comparison state-wise.
 ### 🔹 3. Region and City-wise Treemap
 A treemap that breaks down total sales by region and city.
 
-![Treemap](Screenshot%202025-07-27%20143834.png)
-
----
-
-## 🛠️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/adidas-sales-dashboard.git
-   cd adidas-sales-dashboard
+![Treemap](https://github.com/Welde-Dhanashri/Adidas-Sales-Dashboard/blob/main/Total%20Sales%20By%20Region%20And%20State.png?raw=true)
